@@ -60,6 +60,18 @@ msgctxt "#30010"
 msgid "Timer settings"
 msgstr "Ajustes de grabación"
 
+msgctxt "#30020"
+msgid "Wake On LAN"
+msgstr "Wake On LAN"
+
+msgctxt "#30021"
+msgid "MAC Address"
+msgstr "Dirección MAC"
+
+msgctxt "#30022"
+msgid "Sending WakeOnLAN to server..."
+msgstr "Enviando WakeOnLan al servidor..."
+
 msgctxt "#30050"
 msgid "Auto recordings"
 msgstr "Grabaciones automáticas"
